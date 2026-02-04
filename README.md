@@ -11,10 +11,10 @@ It was developed in the context of the **ARKE research project** (*Adapting to t
 
 ---
 
-## 🔎 Project background — ARKE case study
+## 🔎 Project background: Climate Change Adpation Project "ARKE" 
 
 This work is based on the **ARKE research project** at TH Köln, which focused on:
-- climate change impacts at the municipal scale,
+- climate change impacts at the municipal scale in Germany,
 - risk analysis,
 - and actionable workflows for planners and scientists
 
